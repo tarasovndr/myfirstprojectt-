@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    margin: 0 auto;
+    width: 1170px;
+}
+.header{
+    background:url(../img/header-bg.jpg)no-repeat;
+    
+    padding-top: 57px;
+    height: 843px;
+    font-family:'Anton', sans-serif;
+}
+.menu{
+    display: flex;
+}
+li{
+   margin-right: 40px;
+}
+.nav{
+    display: flex;
+    align-items: center; }  
+
+ul, li{
+    display: block;
+}
+.menu li a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+}
+
+.tel{
+    text-decoration: none;
+    color:#fff;
+    display: block;
+    font-size: 17px;
+    margin-left: auto;
+    letter-spacing: 0.1em;
+    
+}
+.logo{
+    margin-right: 69px;
+}
+.text{
+    color: #fff;
+    padding-top: 216px;
+    text-transform: uppercase;
+}
+.bottom{
+    display: block;
+    color:#fff;
+    text-decoration: none;
+    border: 1px solid #FFFFFF;
+    padding: 17px ;
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    width: 238px;
+    margin-top: 19px;
+  
+  
+}
+.upper{
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 0.1em;
+}
+.downer{
+    font-weight: 400px;
+    font-size: 100px;
+}
+.event{
+    display: block;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 75px;
+    padding-top: 113px;
+}
+.about{
+    margin: 0 auto;
+
+    font-family:'Anton', sans-serif; ;
+}
+.lefth p{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    width: 564px;
+    text-align: justify;
+    padding-top: 19px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+}
+.description{
+    padding-top: 58px ;
+    display: flex;
+}
+ h2{
+    text-transform: uppercase;
+}
+.right p{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    width: 564px;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-top: 19px;
+}
+.lefth{
+    margin-right: 36px;
+}
+.img{
+    display: flex;
+    height: 344px;
+    padding-top: 67px;
+}
+.img img{
+    margin-right: 30px;
+}
+.dowwner{
+    display: flex;
+}
+.down{
+    padding-top: 114px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 15px;
+     line-height: 20px;
+     margin-bottom: 80px;
+}
+.dowwner p{
+    margin-right: 55px;
+}
